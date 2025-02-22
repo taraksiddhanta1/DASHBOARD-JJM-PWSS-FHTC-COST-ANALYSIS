@@ -1,6 +1,8 @@
 # DASHBOARD-JJM-PWSS-FHTC-COST-ANALYSIS
 JJM-PWSS-FHTC-COST-ANALYSIS  DASHBOARD WITH POWER BI For Review Meeting By Superentending Engineer(NBC-II)
- KPIs
+
+
+ # KPIs
  1. Total House Holds & Villages Covering JJM Schemes
  2. Total Sanctioned Cost Vs Financial Progress done
  3. Total Sanctioned Cost Vs Payment done
